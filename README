@@ -1,0 +1,7 @@
+run make
+./fdf [map]
+
+facilities:
+Buttons Up, Down, Left, Right - twist map
+esc - exit
+
